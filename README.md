@@ -1,14 +1,18 @@
-# Projeto final - Churn Modelling
+# Projeto final - Técnicas de Programação I
 
-Notebook simples de análise exploratória sobre saída de clientes de um banco.
+Notebook simples de análise exploratória sobre a saída de clientes de um banco.
 
-## Arquivos necessários
+## Arquivos usados
 
 - `Fernando_TecnicasProgramacaoI.ipynb`
 - `Churn_Modelling.csv`
 
-A base pode ser obtida no conjunto **Churn Modelling**, publicado por Shrutimechlearn no Kaggle. Coloque o CSV na mesma pasta do notebook e execute todas as células na ordem.
+A base **Churn Modelling** foi obtida no conjunto publicado por Shrutimechlearn no Kaggle:
 
-O projeto usa Python, pandas, NumPy e matplotlib. Não utiliza Machine Learning.
+[Consultar a base Churn Modelling no Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 
-[Ver projeto no GitHub](https://github.com/Fhrafael/projeto-final-python-churn)
+O projeto utiliza Python, pandas, NumPy e matplotlib.
+
+## Repositório no GitHub
+
+[Ver o projeto Fernando_TecnicasProgramacaoI no GitHub](https://github.com/Fhrafael/Fernando_TecnicasProgramacaoI)
